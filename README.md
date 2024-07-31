@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=visey.lol+%7C+PUL$E)](https://git.io/typing-svg)
 <p align="center" >Hello, i'm fonctiono, also known as Pulse.</p>
 <p align="center" >I like programming and coding.</p>
 
