@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=visey.lol+%7C+PUL$E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=pulse.zip+%7C+PUL$E)](https://git.io/typing-svg)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonctiono&theme=codeSTACKr&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
